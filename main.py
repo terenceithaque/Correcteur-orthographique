@@ -1,4 +1,5 @@
 import pandas as pd
+from fuzzy_matching import *
 
 
 def ouvrir_base() -> pd.DataFrame:
